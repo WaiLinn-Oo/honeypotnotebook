@@ -1,8 +1,8 @@
-# honeypotnotebook
+# honeypot-notebook
 python based honeypot for intrusion detection and logging in controlled virtual environment.
 more importantly, this notebook is only for educational purposes.
 
-# Experiment Setup
+# experiment-setup
 two virtual machines will be requiring to perform stimulations.
 
 you can use ubuntu or centOS or any lightweight linux OS as a honeypot environment
